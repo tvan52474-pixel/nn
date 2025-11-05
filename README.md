@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gửi Thư Lol</title>
+    <title>Gửi Bạn Anh</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap-grid.min.css"
         integrity="sha512-JQksK36WdRekVrvdxNyV3B0Q1huqbTkIQNbz1dlcFVgNynEMRl0F8OSqOGdVppLUDIvsOejhr/W5L3G/b3J+8w=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -697,9 +697,9 @@
 
         <text dy="-2">
             <textPath style="font-family: fantasy;" xlink:href="#partialPath" startOffset="12">
-                🌹Happy Women's Day
+                🌹Happy BIRTHDAY
                 🌹.........................................................................................................................................🌹From
-                With Love 20/10!🌹
+                With 05/11
             </textPath>
         </text>
 
@@ -882,7 +882,7 @@
                 <div class="envelope"></div>
                 <div class="front"></div>
                 <div class="card">
-                    <div class="text">Happy</br> Women's</br> Day!</div>
+                    <div class="text">Happy</br> BIRTHDAY</br> You!</div>
                     <div class="heart"></div>
                 </div>
                 <div class="hearts">
@@ -1137,7 +1137,7 @@
         // chữ của thư bạn muốn gửi
         let indexTextContent = 0;
         let textLetterContent = document.querySelector('.contentLetter');
-        const textLetterP = "Hôm nay là ngày 20/10 anh chúc ban luôn hạnh phúc và gặp nhiều may mắn trong cuộc sống nhá. Hãy luôn giữ mãi nụ cười trên môi nhá và đừng suy nghĩ nhiều về những thứ không đáng nha";
+        const textLetterP = "Hôm nay là ngày 05/11 chúc ban luôn hạnh phúc và gặp nhiều may mắn trong cuộc sống . Hãy luôn giữ mãi nụ cười trên môi  và đừng suy nghĩ nhiều về những thứ không đáng nha";
         let timoutTextLetterContent;
         function textCharLetterContent() {
             if (indexTextContent < textLetterP.length) {
